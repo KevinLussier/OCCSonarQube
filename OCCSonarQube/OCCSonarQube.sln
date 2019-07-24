@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SonarQube", "SonarQube\SonarQube.vcxproj", "{19007FBB-9040-43AA-BCF2-F3D84F07B302}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Plugin", "..\..\OpenCppCoverage\Plugin\Plugin.vcxproj", "{2F439508-07E0-4084-9614-1A42BDE8ED9A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Plugin", "..\OpenCppCoverage\Plugin\Plugin.vcxproj", "{2F439508-07E0-4084-9614-1A42BDE8ED9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
