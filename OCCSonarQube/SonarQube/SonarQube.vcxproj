@@ -173,7 +173,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\OpenCppCoverage\Plugin\Plugin.vcxproj">
+    <ProjectReference Include="..\..\OpenCppCoverage\Plugin\Plugin.vcxproj">
       <Project>{2f439508-07e0-4084-9614-1a42bde8ed9a}</Project>
     </ProjectReference>
   </ItemGroup>
